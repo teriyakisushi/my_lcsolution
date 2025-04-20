@@ -1,4 +1,5 @@
 easy/*.exe
 .vscode/*.json
 template/*.exe
+template/dataStructure/*.exe
 
